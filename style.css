@@ -1,0 +1,33 @@
+.nav-center{
+    width:10vw;
+    max-width: 100px;
+    margin: auto;
+}
+.nav{
+    background-color: aquamarine;
+}
+
+body{
+    background: url(./image.jpg);
+    background-repeat: no-repeat;
+    background: linear-gradient(to right);
+    
+    background-size:cover;
+    background-position: center;
+    float: right;
+}
+.text{
+    text-decoration-color: blue;
+    letter-spacing: 5px;
+    text-align: justify;
+    color:darkblue;
+    
+    
+}
+.title{
+    color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: large;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
